@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainFun", "BlockchainFun\BlockchainFun.csproj", "{BF284682-73C3-40AE-A575-5D274A4DF206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainFunLib", "BlockchainFunLib\BlockchainFunLib.csproj", "{98F47B20-BF38-489D-8EEB-B79F222CB2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clifton.Blockchain", "Clifton.Blockchain\Clifton.Blockchain.csproj", "{43CDC429-636D-4991-B489-00C5E745145B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BF284682-73C3-40AE-A575-5D274A4DF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF284682-73C3-40AE-A575-5D274A4DF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF284682-73C3-40AE-A575-5D274A4DF206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F47B20-BF38-489D-8EEB-B79F222CB2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F47B20-BF38-489D-8EEB-B79F222CB2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F47B20-BF38-489D-8EEB-B79F222CB2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F47B20-BF38-489D-8EEB-B79F222CB2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CDC429-636D-4991-B489-00C5E745145B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CDC429-636D-4991-B489-00C5E745145B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CDC429-636D-4991-B489-00C5E745145B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CDC429-636D-4991-B489-00C5E745145B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

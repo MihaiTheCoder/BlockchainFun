@@ -1,12 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlockchainFunLib\BlockchainFunLib.csproj" />
+    <ProjectReference Include="..\Clifton.Blockchain\Clifton.Blockchain.csproj" />
   </ItemGroup>
 
 </Project>
